@@ -1,6 +1,5 @@
 #RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=service.ico
 #AutoIt3Wrapper_Res_File_Add=instsrv.exe, rt_rcdata, instsrv
 #AutoIt3Wrapper_Res_File_Add=srvany.exe, rt_rcdata, srvany
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
