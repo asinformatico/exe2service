@@ -1,3 +1,6 @@
+;=================================================================
+;Coded by Jesús Pacheco  -  Follow me on Twitter: @as_informatico
+;=================================================================
 #RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Res_File_Add=instsrv.exe, rt_rcdata, instsrv
